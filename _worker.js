@@ -3,7 +3,7 @@ import { connect } from "cloudflare:sockets";
 // import { Buffer } from "node:buffer";
 
 // Variables
-const rootDomain = "gesaleiloiga-5825.workers.dev"; // Ganti dengan domain utama kalian
+const rootDomain = "pages.dev"; // Ganti dengan domain utama kalian
 const serviceName = "akun5"; // Ganti dengan nama workers kalian
 const apiKey = "Qa_TFo5NQhsDyj4xDuGSSlAaF4jPGd8QOCC4HXlf"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
 const apiEmail = ""; // Ganti dengan email yang kalian gunakan
